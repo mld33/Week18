@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input {
+    color: rgb(5, 84, 84);
+    font-size: larger;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 20px;
+    color: rgb(223, 136, 23);
+    font: inherit;
+    margin: 0;
+    font-size: large;
+}
+
+li{
+    display: block;
+}
